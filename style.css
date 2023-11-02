@@ -45,3 +45,23 @@
     height: 200px;
     padding: 0 0 30px;
 }
+
+.fa-brands {
+    font-size: 1.5rem;
+}
+
+.fa-facebook-f {
+    padding: .5rem .85rem;
+}
+
+.fa-google-plus-g {
+    padding: .5rem .45rem;
+}
+
+.fa-x-twitter {
+    padding: 0.5rem 0.6rem;
+}
+
+.fa-linkedin-in {
+    padding: .5rem .7rem;
+}
