@@ -6,6 +6,10 @@
     background-color: #19BC9B;
 }
 
+.my_bg-dark-grey {
+    background-color: #3B536D;
+}
+
 .orizontal-line {
     height: 5px;
     width: 60%;
